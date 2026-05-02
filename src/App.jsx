@@ -690,7 +690,7 @@ const PortfolioPage = ({ onBack }) => (
 
     <div className="relative z-20">
       <div className="max-w-5xl mx-auto px-6 pt-8">
-        <button onClick={onBack} className="flex items-center gap-2 font-mono text-xs text-[#3a3530] hover:text-[#e8c96a] transition-colors group">
+        <button onClick={onBack} className="flex items-center gap-2 font-mono text-xs text-[#8a8278] hover:text-[#e8c96a] transition-colors group">
           <ArrowLeft size={13} className="group-hover:-translate-x-1 transition-transform" />
           BACK_TO_HOME
         </button>
